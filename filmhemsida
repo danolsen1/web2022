@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favorite Movie</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+    <h1>My name is Dante Olsen Bergman and i'm writing about my favorite movie. </h1>
+<body>
+    <img src="./star-wars-image.png" alt="">
+    <!--  -->
+    <h2>Star Wars is my favorite movies beacause of many reasons. One might be that i grew up watching Star Wars so it's very nostalgic for me. 
+    </p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.    
+
+    
+    
+</body>
